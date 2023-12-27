@@ -1,3 +1,8 @@
+Kullancı adı: qutaibaashqar@Gmail.com         Şifre : 34905
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Gelirim Yönetme Paneli projesi, modern teknolojilerle entegre edilen, gelir yönetimi odaklı bir web uygulamasını hayata geçirmeyi amaçlamaktadır. Bu projenin geliştirilmesinde özellikle öne çıkan teknoloji, ASP.NET Core Razor 6.0'dır. Bu bölümde, ASP.NET Core Razor 6.0'nın projedeki rolünü, özelliklerini ve sağladığı avantajları detaylı bir şekilde inceleyeceğiz.
 
 Tasarımın Esintisi Projenin temeli, Figma tasarım süreciyle atılmıştır. Kullanıcı deneyimini en üst düzeye çıkarmak ve modern bir görünüm elde etmek amacıyla detaylı tasarımlar gerçekleştirilmiştir. Figma, projenin görsel kimliğini oluşturmak için başlangıç noktası olmuş, ve bu tasarımların hemen hemen aynısı, bazı küçük ayarlamalarla, projenin final haline taşınmıştır.
