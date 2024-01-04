@@ -1,6 +1,8 @@
 Kullancı adı: qutaibaashqar@Gmail.com         Şifre : 34905
 
+the Database File are located in this repo.
 
+** In this section there will be a Summary page for the App and i will be adding the report For the Ag Tabanli Lecture, and maybe a Vedio about how the Apps working in the Real time **
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Gelirim Yönetme Paneli projesi, modern teknolojilerle entegre edilen, gelir yönetimi odaklı bir web uygulamasını hayata geçirmeyi amaçlamaktadır. Bu projenin geliştirilmesinde özellikle öne çıkan teknoloji, ASP.NET Core Razor 6.0'dır. Bu bölümde, ASP.NET Core Razor 6.0'nın projedeki rolünü, özelliklerini ve sağladığı avantajları detaylı bir şekilde inceleyeceğiz.
